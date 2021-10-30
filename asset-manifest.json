@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/monitorApp/static/css/main.5d8af97b.chunk.css",
+    "main.js": "/monitorApp/static/js/main.5fd368b8.chunk.js",
+    "main.js.map": "/monitorApp/static/js/main.5fd368b8.chunk.js.map",
+    "runtime-main.js": "/monitorApp/static/js/runtime-main.71d6fbf1.js",
+    "runtime-main.js.map": "/monitorApp/static/js/runtime-main.71d6fbf1.js.map",
+    "static/js/2.8750a093.chunk.js": "/monitorApp/static/js/2.8750a093.chunk.js",
+    "static/js/2.8750a093.chunk.js.map": "/monitorApp/static/js/2.8750a093.chunk.js.map",
+    "static/js/3.5937e880.chunk.js": "/monitorApp/static/js/3.5937e880.chunk.js",
+    "static/js/3.5937e880.chunk.js.map": "/monitorApp/static/js/3.5937e880.chunk.js.map",
+    "index.html": "/monitorApp/index.html",
+    "static/css/main.5d8af97b.chunk.css.map": "/monitorApp/static/css/main.5d8af97b.chunk.css.map",
+    "static/js/2.8750a093.chunk.js.LICENSE.txt": "/monitorApp/static/js/2.8750a093.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71d6fbf1.js",
+    "static/js/2.8750a093.chunk.js",
+    "static/css/main.5d8af97b.chunk.css",
+    "static/js/main.5fd368b8.chunk.js"
+  ]
+}
